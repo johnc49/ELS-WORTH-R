@@ -12,7 +12,7 @@ const HomeContent = () => {
               <div className="w-48 md:w-80 h-50 md:h-80">
                 <img
                   className="w-full h-full rounded"
-                  src="./images/p4.jpg"
+                  src="./public/images/p4.jpg"
                   alt=""
                 />
               </div>
